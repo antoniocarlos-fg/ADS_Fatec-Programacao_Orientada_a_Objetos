@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFJ3sabReiw=",
+  "success": true,
+  "projectFilePath": "/home/shadwo/dev/POO/Lista2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
+  "expectedPackageFiles": [
+    "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
