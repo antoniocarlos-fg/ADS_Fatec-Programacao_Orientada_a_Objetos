@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/POO/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {}
+    "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/POO/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {
+    "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/POO/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+        "projectUniqueName": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
         "projectName": "CalculadoraFinanceira",
-        "projectPath": "/home/shadwo/dev/POO/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+        "projectPath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/POO/CalculadoraFinanceira/obj/",
+        "outputPath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"

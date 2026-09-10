@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92870Hp/L6g=",
+  "dgSpecHash": "RpAYWpPefkU=",
   "success": true,
-  "projectFilePath": "/home/shadwo/dev/POO/Calculadora/Calculadora.csproj",
+  "projectFilePath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/Calculadora/Calculadora.csproj",
   "expectedPackageFiles": [
     "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
   ],

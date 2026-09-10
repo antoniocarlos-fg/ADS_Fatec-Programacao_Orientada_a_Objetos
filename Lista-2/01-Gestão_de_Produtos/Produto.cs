@@ -8,9 +8,13 @@ public class Produto
         get => preco;
         set
         {
-            if (value < 0)
-                throw new ArgumentException("O valor não pode ser negativo.");
-            preco = value;
+            if(value < 0)
+                {
+                Console.WriteLine("O valor não pode ser negativo.");
+                }else
+                {
+                preco = value;
+                }
         }
     }
     public int quantidadeEmEstoque;
@@ -20,8 +24,12 @@ public class Produto
         set
         {
             if (value < 0)
-                throw new ArgumentException("O valor não pode ser negativo.");
-            quantidadeEmEstoque = value;
+                {
+                Console.WriteLine("O valor não pode ser negativo.");
+                }else
+                {
+                quantidadeEmEstoque = value;
+                }
         }
     }
 
